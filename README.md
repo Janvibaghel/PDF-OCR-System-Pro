@@ -64,8 +64,8 @@ Launch the application from your terminal:
 
 Bash
 
-streamlit run app.py
-The application will automatically open in your web browser (http://localhost:8501).
+streamlit run ocr_app.py
+The application will automatically open in your web browser.
 
 🎯 Usage Modes
 The system operates in four distinct modes, selectable via the sidebar:
@@ -83,7 +83,7 @@ This project is highly deployable. To showcase it to recruiters, I recommend dep
 
 To successfully deploy, ensure your repository contains:
 
-app.py (The main code).
+ocr_app.py (The main code).
 
 requirements.txt (Listing all necessary Python packages: streamlit, pytesseract, pdf2image, Pillow, pandas, docx, openpyxl).
 
