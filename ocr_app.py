@@ -1006,9 +1006,9 @@ st.markdown("""
         Built with Python • Streamlit • Tesseract OCR • SQLite
     </p>
     <p style="font-size: 0.75rem; margin-top: 0.5rem; color: #999;">
-        Developed by [Your Name] | 
-        <a href="https://github.com/yourusername/project" style="color: #667eea; text-decoration: none;">GitHub</a> | 
-        <a href="https://linkedin.com/in/yourprofile" style="color: #667eea; text-decoration: none;">LinkedIn</a>
+        Developed by janvi Baghel | 
+        <a href="https://github.com/Janvibaghel" style="color: #667eea; text-decoration: none;">GitHub</a> | 
+        <a href="https://www.linkedin.com/in/janvibaghel/" style="color: #667eea; text-decoration: none;">LinkedIn</a>
     </p>
 </div>
 """, unsafe_allow_html=True)
